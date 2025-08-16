@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Working Zuno Model 001",
+  "description": "Zuno is an AI-powered platform for property professionals. Efficiently find property owner phone numbers and contact details by uploading Excel files or manual search. Zuno leverages Gemini for fast, accurate data enrichment. Features include AI chat for real estate queries and a 'near me' property discovery tool.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}
